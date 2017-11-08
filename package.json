@@ -1,0 +1,14 @@
+{
+  "name": "nodebramspeeckaertnmd",
+  "version": "1.0.0",
+  "description": "Taak in 1 uur voor nmd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bram Speeckaert",
+  "license": "ISC",
+  "dependencies": {
+    "markov-strings": "^1.3.4"
+  }
+}
