@@ -1,4 +1,4 @@
 Download Markov chains:
 
-npm install --save markov-chains-text
+<b>npm install --save markov-chains-text<b>
 
